@@ -1,3 +1,7 @@
+# Basic Looping and Number Operations
+
+#FOR LOOP EXAMPLES
+
 N = int(input("Enter a number: "))
 
 #print number from 1 to N
@@ -38,5 +42,18 @@ for i in range(1, N + 1):
     factorial *= i
 print("Factorial of", N, "is:", factorial)
 print("\n")
+
+
+
+#WHILE LOOP EXAMPLES
+
+#print pattern with 1 and 2 and 3 using while loop, print 3 times the value of i with j and j will go 1 then 2 then 3 and then again 1,2,3
+i = 1
+while i <= 3:
+    j = 1
+    while j <= 3:   
+        print(i, j)
+        j += 1
+    i += 1
 
 
