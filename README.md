@@ -8,6 +8,7 @@ This repo is meant to be a growing collection of language-specific implementatio
 Whether it's data structures, algorithms, or basic programming constructs — this repo serves as a handy reference for commonly used logic across multiple programming languages.  
 Currently, the main focus is on **Python** and **Java**, with a few codes in **C++** and **C**. More languages and examples will be added over time.
 
+
 ---
 
 ## 📚 Code Sections
